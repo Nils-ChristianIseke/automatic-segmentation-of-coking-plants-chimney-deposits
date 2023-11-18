@@ -16,7 +16,7 @@ Be aware that the images in segmentation_results are not showing much with a nor
   </figure>
     <figure>
       <img src="Segmentation.png" alt="Segmentation of the constriction and the pipe in the image" style="width: 49%;"/>
-    <figcaption>Segmentation of the constriction and the pipe in the image</figcaption>
+      <figcaption>Segmentation of the constriction and the pipe in the image</figcaption>
   </figure>
   
 </p>
