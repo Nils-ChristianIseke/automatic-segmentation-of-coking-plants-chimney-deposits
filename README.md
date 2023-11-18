@@ -6,3 +6,4 @@ Segmentation of constrictions in conking plant chemneys.
 This was done during 24hs at the hackathon #Hack4Pott.
 Be aware that the images in segmentation_results are not showing much with a normal image viewer, cause they only contain 1 and 2 as values. Look at the Example_Segmentation.png to get the results.
 
+![Raw Image](Example_Input.png)
