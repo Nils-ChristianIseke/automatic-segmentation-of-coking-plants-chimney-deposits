@@ -9,6 +9,6 @@ Be aware that the images in segmentation_results are not showing much with a nor
 
 
 <p>
-  <img src="Example_Input.png" alt="Raw Image of an constricted pipe model" style="width: 49%;"/>
-  <img src="Example_Segmentation.png" alt="Segmentation of the constriction and the pipe in the image" style="width: 49%;"/>
+  <img src="Example.png" alt="Raw Image of an constricted pipe model" style="width: 49%;"/>
+  <img src="Segmentation.png" alt="Segmentation of the constriction and the pipe in the image" style="width: 49%;"/>
 </p>
