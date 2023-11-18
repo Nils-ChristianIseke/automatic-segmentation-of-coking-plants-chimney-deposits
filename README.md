@@ -9,6 +9,6 @@ Be aware that the images in segmentation_results are not showing much with a nor
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; max-width: 49%; margin-left: 10px;">
     <img src="Segmentation.png" alt="Segmentation of the constriction and the pipe in the image" style="width: 40%;"/>
-    <p style="text-align: center;">Segmentation of the constriction and the pipe in the image</p>
+    <p style="text-align: center;">Segmentation of the constriction and the pipe.</p>
   </div>
 </div>
