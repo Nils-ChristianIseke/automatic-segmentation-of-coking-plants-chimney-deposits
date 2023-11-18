@@ -7,8 +7,7 @@ The detection of constrictions is helpful to do the maintainence on the right ti
 Segmentation of constrictions in conking plant chemneys.
 Be aware that the images in segmentation_results are not showing much with a normal image viewer, cause they only contain 1 and 2 as values. Look at the Examples below to get a glimpse of the performance. This was achieved by using only 23 labeled images as input.
 
-
-<p>
+<div style="display: flex; justify-content: space-between;">
   <figure>
     <img src="Example.png" alt="Raw Image of an constricted pipe model" style="width: 49%;"/>
     <figcaption>Raw Image of an constricted pipe model</figcaption>
@@ -17,5 +16,4 @@ Be aware that the images in segmentation_results are not showing much with a nor
     <img src="Segmentation.png" alt="Segmentation of the constriction and the pipe in the image" style="width: 49%;"/>
     <figcaption>Segmentation of the constriction and the pipe in the image</figcaption>
   </figure>
-  
-</p>
+</div>
