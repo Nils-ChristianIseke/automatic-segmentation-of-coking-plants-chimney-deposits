@@ -11,7 +11,6 @@ Be aware that the images in segmentation_results are not showing much with a nor
 <p>
   <figure>
     <img src="Example.png" alt="Raw Image of an constricted pipe model" style="width: 49%;"/>
-
     <figcaption>Raw Image of an constricted pipe model</figcaption>
   </figure>
     <figure>
