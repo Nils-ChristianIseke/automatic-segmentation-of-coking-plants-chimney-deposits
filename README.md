@@ -9,3 +9,7 @@ Be aware that the images in segmentation_results are not showing much with a nor
 ![Raw Image](Example_Input.png)
 ![Segmentation](Example_Segmentation.png)
 
+<p>
+  <img src="Example_Input.png" alt="Raw Image of an constricted pipe model" style="width: 50%;"/>
+  <img src="Example_Segmentation.png" alt="Segmentation of the constriction and the pipe in the image" style="width: 50%;"/>
+</p>
