@@ -4,6 +4,8 @@ The detection of constrictions is helpful to do the maintainence on the right ti
 
 Segmentation of constrictions in conking plant chemneys.
 This was done during 24hs at the hackathon #Hack4Pott.
-Be aware that the images in segmentation_results are not showing much with a normal image viewer, cause they only contain 1 and 2 as values. Look at the Example_Segmentation.png to get the results.
+Be aware that the images in segmentation_results are not showing much with a normal image viewer, cause they only contain 1 and 2 as values. Look at the Examples below to get a glimpse of the performance. This was achieved by using only 23 labeled images as input.
 
 ![Raw Image](Example_Input.png)
+![Segmentation](Example_Segmentation.png)
+
