@@ -1,11 +1,10 @@
 ﻿# Hack4Pott
-This was done during 24hs at the hackathon #Hack4Pott.
+This project was done during 24 hours at the hackathon #Hack4Pott.
 
-In cocking plants, chimney get constricted by deposits, which hinders their performance. Thus they need to be maintained which is a time-consuming process.
-The detection of constrictions is helpful to do the maintainence on the right time.
+In cocking plants, chimneys get constricted by deposits, which hinders their performance. Thus they need to be maintained which is a time-consuming process.
+The detection of constrictions is helpful to do the maintainence on the right time. In this project a Convolutional Neural Network was trained to segment those constrictions, enabling the automatic planning for maintenance of those chimneys. 
 
-Segmentation of constrictions in conking plant chemneys.
-Be aware that the images in segmentation_results are not showing much with a normal image viewer, cause they only contain 1 and 2 as values. Look at the Examples below to get a glimpse of the performance. This was achieved by using only 23 labeled images as input.
+Be aware that the images in segmentation_results are not showing much with a normal image viewer, cause they only contain 1 and 2 as values. Look one examples below to get a glimpse of the performance. This was achieved by using only 23 labeled images as input.
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; max-width: 49%; margin-left: 10px;">
     <img src="Segmentation.png" alt="Segmentation of the constriction and the pipe in the image" style="width: 40%;"/>
