@@ -1,4 +1,5 @@
-﻿# Hack4Pott
+﻿# Automatic Segmentation of Coking plants chimney-deposits 
+
 This project was done during 24 hours at the hackathon #Hack4Pott.
 
 In coking plants, chimneys get constricted by deposits, which hinders their performance. Thus they need to be maintained which is a time-consuming process.
